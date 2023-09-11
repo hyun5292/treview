@@ -34,35 +34,35 @@
 
 > ### 메인 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415851/treview-storyboard/mainpg_agy0el.png" alt="main page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415851/treview-storyboard/mainpg_agy0el.png" alt="main page storyboard">
 >
 > ### 공장 검색 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/fsearchpg_vdwaph.png" alt="factory search page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/fsearchpg_vdwaph.png" alt="factory search page storyboard">
 >
 > ### 리뷰 목록 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/reviewListpg_wocgoq.png" alt="review list page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/reviewListpg_wocgoq.png" alt="review list page storyboard">
 >
 > ### 리뷰 작성 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/writereviewpg_mnie6z.png" alt="review write page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/writereviewpg_mnie6z.png" alt="review write page storyboard">
 >
 > ### 리뷰 수정 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/editreviewpg_mdlma1.png" alt="review edit page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/editreviewpg_mdlma1.png" alt="review edit page storyboard">
 >
 > ### 로그인 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/loginpg_niro2d.png" alt="login page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/loginpg_niro2d.png" alt="login page storyboard">
 >
 > ### 회원가입 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/joinpg_ojl0ym.png" alt="join page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/joinpg_ojl0ym.png" alt="join page storyboard">
 >
 > ### 회원정보 수정 페이지
 >
-> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/editmemberpg_dh1k39.png" alt="member edit page">
+> <img width="70%" src="https://res.cloudinary.com/sudol5292/image/upload/v1694415850/treview-storyboard/editmemberpg_dh1k39.png" alt="member edit page storyboard">
 
 ## 화면 구성
 
