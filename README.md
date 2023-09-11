@@ -9,7 +9,7 @@
 > - 개발 기간<br/>22.12.15 ~ 23.04.06<br/>
 >
 > - 사이트 주소<br/> https://treview.netlify.app/<br/>
-> - 사용 언어 및 개발 환경<br/> <span style="fontWeight: bold;"> <img height="15px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="React 로고">
+> - 사용 언어 및 개발 환경<br/> <span style="fontWeight: bold;"> <img height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="React 로고">
 >   React 18.2.0
 >   </span> <span style="fontWeight: bold;"><img height="15px" src="https://img.icons8.com/?size=2x&id=hsPbhkOH4FMe&format=png" alt="nodeJS 로고"> nodeJS 16.17.0</span> <span style="fontWeight: bold;"> <img height="15px" src="https://res.cloudinary.com/sudol5292/image/upload/v1694195999/vscode_rwngfk.png" alt="vsCode 로고" />
 >   Visual Studio Code
